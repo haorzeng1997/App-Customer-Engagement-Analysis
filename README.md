@@ -17,4 +17,4 @@ Main Objectives
 Resources Used
 - Python Version: 3.8
 
-Packages: pandas, numpy, calendar, matplotlib, seaborn, h2o, sklearn
+- Packages: pandas, numpy, calendar, matplotlib, seaborn, h2o, sklearn
